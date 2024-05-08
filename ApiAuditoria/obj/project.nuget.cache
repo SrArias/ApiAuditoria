@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7le/mkS9vFqA5h852cN3k4WZ5FdnXTffd/r95mR39UVQ/TIuWbx0mA0lyUjwcEGbndtqZrRAX3BhWej1TWS4bg==",
+  "success": true,
+  "projectFilePath": "D:\\ApiAuditoria\\ApiAuditoria\\ApiAuditoria\\ApiAuditoria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j-mej\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\j-mej\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
